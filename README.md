@@ -2,7 +2,7 @@
 
 A mesmerizing 3D web application featuring a massive glowing electric cube at the center of a cosmic scene, surrounded by three orbiting streams of smaller electric cubes in blue and purple hues. The scene creates a stunning visual effect of energy particles flowing through space, with realistic starfields and cinematic camera movements.
 
-![Electric Cube Cosmos Preview](preview.png)
+![Electric Cube Cosmos Preview](Electrocubes.png)
 
 ## ✨ Features
 
@@ -15,7 +15,7 @@ A mesmerizing 3D web application featuring a massive glowing electric cube at th
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-url.com)
+[View Live Demo](Not Hosted Yet!)
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +49,7 @@ electric-cubes-react/
 │   └── App.css          # Component styles
 ├── package.json
 ├── vite.config.js
-└── README.md
+README.md
 ```
 
 ## 🏃‍♂️ Getting Started
@@ -62,7 +62,7 @@ electric-cubes-react/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/electric-cube-cosmos.git
+   git clone https://github.com/HeshanKR/Electro-cubes-WebGL-.git
    cd electric-cube-cosmos
    ```
 
@@ -163,11 +163,12 @@ const radius = 80 + Math.sin(time * 0.1) * 10 // Camera distance
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. Request permission from owner of this project.
+2. Fork the repository.
+3. Create a feature branch (`git checkout -b feature/amazing-feature`).
+4. Commit your changes (`git commit -m 'feat: Add amazing feature'`).
+5. Push to the branch (`git push origin feature/amazing-feature`).
+6. Open a Pull Request.
 
 ## 📄 License
 
@@ -182,8 +183,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Your Name**
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- Email: heshan.ratnaweera@gmail.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/heshan-ratnaweera-027hkr/)
 - Portfolio: [Your Portfolio](https://your-portfolio.com)
 
 ---
