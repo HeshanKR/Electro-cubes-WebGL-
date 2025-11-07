@@ -184,8 +184,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - Email: heshan.ratnaweera@gmail.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/heshan-ratnaweera-027hkr/)
-- Portfolio: [Your Portfolio](https://your-portfolio.com)
+- LinkedIn: [Heshan Ratnaweera](https://www.linkedin.com/in/heshan-ratnaweera-027hkr/)
+- Portfolio: [Not Available](https://your-portfolio.com)
 
 ---
 
