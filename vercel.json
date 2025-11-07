@@ -1,0 +1,6 @@
+{
+  "installCommand": "cd electric-cubes-react && npm install",
+  "buildCommand": "cd electric-cubes-react && npm run build",
+  "outputDirectory": "electric-cubes-react/dist",
+  "devCommand": "cd electric-cubes-react && npm run dev"
+}
