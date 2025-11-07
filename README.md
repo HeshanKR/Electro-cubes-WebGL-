@@ -15,7 +15,7 @@ A mesmerizing 3D web application featuring a massive glowing electric cube at th
 
 ## 🚀 Live Demo
 
-[View Live Demo](Not Hosted Yet!)
+[View Live Demo](https://electro-cubes-web-gl.vercel.app/)
 
 ## 🛠️ Tech Stack
 
